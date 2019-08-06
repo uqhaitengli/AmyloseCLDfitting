@@ -1,5 +1,5 @@
 # AmyloseCLDfitting
-Fitting chain-length distribution to Amylose model for 
+Fitting chain-length distribution to Amylose model 
 
 Prerequisites for Deployment:
 
