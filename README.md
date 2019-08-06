@@ -1,7 +1,8 @@
 # AmyloseCLDfitting
-Fitting digestion data to parallel first-order model DigestionKinetics Executable
+Fitting digestion data to Amylose model for chain-length distribution
 
-Prerequisites for Deployment
+Prerequisites for Deployment:
+
 Verify the MATLAB Runtime is installed and ensure you have installed version 9.1 (R2016b).  
 download and install the Windows version of the MATLAB Runtime for R2016b from the following link on the MathWorks website:
 
