@@ -1,5 +1,5 @@
 # AmyloseCLDfitting
-Fitting digestion data to Amylose model for chain-length distribution
+Fitting chain-length distribution to Amylose model for 
 
 Prerequisites for Deployment:
 
