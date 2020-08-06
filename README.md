@@ -1,5 +1,6 @@
 # AmyloseCLDfitting
-Fitting chain-length distribution to Amylose model 
+Fitting chain-length distribution to Amylose model
+
 The APP was published in Li et al. Starch branching enzymes contributing to amylose and amylopectin fine structure in wheat. Carbohydrate Polymers, 224, 115185.
 
 Prerequisites for Deployment:
